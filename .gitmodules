@@ -1,0 +1,6 @@
+[submodule "fast-volleyball-tracking-inference"]
+	path = fast-volleyball-tracking-inference
+	url = https://github.com/asigatchov/fast-volleyball-tracking-inference.git
+[submodule "WASB-SBDT"]
+	path = WASB-SBDT
+	url = https://github.com/nttcom/WASB-SBDT.git
